@@ -1,3 +1,5 @@
+#Dull Facebook
+
 **Dull Facebook** is Chrome Extension MVP that reduces your use of Facebook. It blocks features that some users find unhealthy or unproductive.
 
  - Removes the newsfeed from Facebook, reducing cognitive overload and
