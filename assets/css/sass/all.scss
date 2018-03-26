@@ -1,0 +1,8 @@
+body {
+  filter: grayscale(100%) !important;
+  opacity: .7;
+}
+
+body.home #globalContainer {
+    display: none !important;
+}

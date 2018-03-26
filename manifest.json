@@ -1,0 +1,15 @@
+{
+   "content_scripts": [ {
+      "js": [ "assets/js/jquery.min.js", "assets/js/override.js" ],
+      "css": ["assets/css/all.css"],
+      "matches": [ "*://www.facebook.com/*" ],
+      "run_at": "document_start"
+   }
+  ],
+   "description": "",
+   "icons": {
+   },
+   "manifest_version": 2,
+   "name": "Dull Facebook",
+   "version": "0.0.1"
+}
